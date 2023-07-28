@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Cesar G\source\repos\Project1\Project1\MyForm.cpp(7,11): error C2976: 'std::array': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(520,7): message : see declaration of 'std::array'
+C:\Users\Cesar G\source\repos\Project1\Project1\MyForm.cpp(7,31): error C3699: '^': cannot use this indirection on type 'std::array'
+C:\Users\Cesar G\source\repos\Project1\Project1\MyForm.cpp(7,31): message : compiler replacing '^' with '*' to continue parsing
